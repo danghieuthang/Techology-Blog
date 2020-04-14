@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 13, 2020, 10:25:16 PM
+    Author     : dhtha
+*/
+
+
+.footer h6{
+    letter-spacing: 2px;
+    text-transform:  uppercase;
+}
+.title{
+    letter-spacing: 10px;
+    text-transform:  uppercase;
+}
+.contentTitle{
+    letter-spacing: 5px;
+    text-transform:  uppercase;
+}
