@@ -1,5 +1,5 @@
 # Techology-Blog
-Features:
+<h3>Features:</h3>
 This system contains the following functions:
 -	Function 1: Registration
 -	Function 2: Login
